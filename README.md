@@ -5,7 +5,9 @@
 <br>Jurusan		:[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## Deskripsi Umum
+Program pertama menampilkan matriks yang akan diinputkan jumlah baris dan kolomnya oleh user, kemudian selain itu user juga dapat menginputkan nilai dari setiap kolom dan barisnya. Apabila sudah maka program akan menampilkan matriksnya, selanjutnya matriks akan berubah posisi, dimana yang tadinya kolom menjadi baris, dan baris menjadi kolom.
 
+Program kedua menampilkan matriks yang akan diinputkan jumlah baris dan kolomnya oleh user, kemudian selain itu user menginputkan nilai dari setiap kolom dan barisnya. Apabila sudah maka program akan menampilkan matriksnya dan deretan aritmatika yang hanya menampilkan angka yang tidak dapat habis jika dibagi dengan angka 3,5, dan 7.
 ## Source Code
 #include <iostream>
 #include <conio.h>
